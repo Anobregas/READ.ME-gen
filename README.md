@@ -1,4 +1,5 @@
-# READ.ME Generator
+# READ.# READ.ME Generator
+  ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
   # Description
 
   this project is used to quickly create profesional read.me
@@ -18,7 +19,7 @@
 
   ## Deployment
 
-   https://anobregas.github.io/READ.ME-gen/
+  https://anobregas.github.io/READ.ME-gen/
 
   ## Installation
 
@@ -26,7 +27,7 @@
 
   ## Usage
 
-  READ.ME Generator was designed to createing professional a read.me
+  READ.ME Generator was designed to create a professional read.me
 
   ## Contributing
 
@@ -45,6 +46,7 @@
 
     This project is licensed under the MIT license.
  ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)(https://choosealicense.com/licenses/mit/)
+
 
  ## Screen Shot 
 

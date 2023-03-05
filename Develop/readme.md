@@ -1,7 +1,8 @@
-# a
+# READ.ME Generator
+  ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
   # Description
 
-  a
+  this project is used to quickly create profesional read.me
 
   ## Tabel of contents
   - [Authors](#Authors)
@@ -14,25 +15,25 @@
 
   ## Authors
 
-  a
+  Austin Nobregas
 
   ## Deployment
 
-  a
+  https://anobregas.github.io/READ.ME-gen/
 
   ## Installation
 
-  a
+  node
 
   ## Usage
 
-  a was designed to a
+  READ.ME Generator was designed to create a professional read.me
 
   ## Contributing
 
   Contributions are always welcome!
 
-  please reach out to a to find out how! Check out more of my work at [a](https://github.com/a/).
+  please reach out to austinnobregas@gmail.com to find out how! Check out more of my work at [Anobregas](https://github.com/Anobregas/).
 
   ## Running Tests
 
