@@ -26,7 +26,7 @@
 
   ## Usage
 
-  READ.ME Generator was designed to READ.ME Generator was designed to createing professional a read.me
+  READ.ME Generator was designed to createing professional a read.me
 
   ## Contributing
 

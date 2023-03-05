@@ -55,8 +55,8 @@ const questions = [
 ];
 
 // Function to write README file using the user input
-function writeToFile(fileName, data) {
-    return fs.writeFileSync(path.join(process.cwd(), fileName), data);
+function writeToFile(file, data) {
+    return fs.writeFileSync(path.join(process.cwd(), file), data);
   }
   
   // Function to initialize app

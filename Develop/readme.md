@@ -1,7 +1,7 @@
-# READ.ME Generator
+# a
   # Description
 
-  this project is used to quickly create profesional read.me
+  a
 
   ## Tabel of contents
   - [Authors](#Authors)
@@ -14,25 +14,25 @@
 
   ## Authors
 
-  Austin Nobregas
+  a
 
   ## Deployment
 
-   https://anobregas.github.io/READ.ME-gen/
+  a
 
   ## Installation
 
-  node
+  a
 
   ## Usage
 
-  READ.ME Generator was designed to READ.ME Generator was designed to createing professional a read.me
+  a was designed to a
 
   ## Contributing
 
   Contributions are always welcome!
 
-  please reach out to austinnobregas@gmail.com to find out how! Check out more of my work at [Anobregas](https://github.com/Anobregas/).
+  please reach out to a to find out how! Check out more of my work at [a](https://github.com/a/).
 
   ## Running Tests
 
