@@ -1,4 +1,4 @@
-# READ.# READ.ME Generator
+# READ.ME Generator
   ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
   # Description
 
